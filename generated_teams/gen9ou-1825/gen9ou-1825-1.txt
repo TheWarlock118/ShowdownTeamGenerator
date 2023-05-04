@@ -1,0 +1,54 @@
+Great Tusk @ Leftovers
+Ability: Protosynthesis
+EVs: 0 HP / 252 Atk / 0 Def / 0 Spa / 4 SpD / 252 Spe
+Adamant Nature
+- Earthquake
+- Rapid Spin
+- Headlong Rush
+- Bulk Up
+
+Hatterene @ Eject Button
+Ability: Magic Bounce
+EVs: 248 HP / 0 Atk / 176 Def / 0 Spa / 0 SpD / 84 Spe
+Bold Nature
+- Dazzling Gleam
+- Healing Wish
+- Draining Kiss
+- Psychic
+
+Iron Moth @ Booster Energy
+Ability: Quark Drive
+EVs: 0 HP / 0 Atk / 124 Def / 132 Spa / 0 SpD / 252 Spe
+Timid Nature
+- Fiery Dance
+- Dazzling Gleam
+- Psychic
+- Sludge Wave
+
+Dragonite @ Heavy-Duty Boots
+Ability: Multiscale
+EVs: 0 HP / 252 Atk / 0 Def / 0 Spa / 4 SpD / 252 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Encore
+- Dragon Dance
+
+Gholdengo @ Air Balloon
+Ability: Good as Gold
+EVs: 0 HP / 0 Atk / 0 Def / 252 Spa / 4 SpD / 252 Spe
+Timid Nature
+- Shadow Ball
+- Make It Rain
+- Trick
+- Nasty Plot
+
+Walking Wake @ Choice Specs
+Ability: Protosynthesis
+EVs: 0 HP / 0 Atk / 0 Def / 252 Spa / 4 SpD / 252 Spe
+Timid Nature
+- Dragon Pulse
+- Hydro Steam
+- Flamethrower
+- Roar
+
