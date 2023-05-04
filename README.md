@@ -12,3 +12,6 @@ A team generator for Pokemon Showdown based on Smogon usage data.
 [![](https://media.discordapp.net/attachments/1099804589684969593/1103748615551332383/5.PNG)]()
 ## Validate and play!
 [![](https://cdn.discordapp.com/attachments/1099804589684969593/1103748615878479993/6.PNG)]()
+
+## Video
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/iry5g_nHRZg/0.jpg)](http://www.youtube.com/watch?v=iry5g_nHRZg "Pokemon Showdown Team Generator showcase")
