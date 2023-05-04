@@ -1,0 +1,54 @@
+Great Tusk @ Assault Vest 
+Ability: Protosynthesis
+EVs: 0 HP / 252 Atk / 0 Def / 0 Spa / 4 SpD / 252 Spe
+Jolly Nature
+- Knock Off
+- Earthquake
+- Rapid Spin
+- Close Combat
+
+Iron Valiant @ Booster Energy
+Ability: Quark Drive
+EVs: 0 HP / 4 Atk / 0 Def / 252 Spa / 0 SpD / 252 Spe
+Naive Nature
+- Thunderbolt
+- Knock Off
+- Focus Blast
+- Moonblast
+
+Corviknight @ Rocky Helmet
+Ability: Mirror Armor
+EVs: 252 HP / 0 Atk / 4 Def / 0 Spa / 252 SpD / 0 Spe
+Careful Nature
+- U-turn
+- Iron Defense
+- Defog
+- Brave Bird
+
+Hatterene @ Eject Button
+Ability: Magic Bounce
+EVs: 252 HP / 0 Atk / 124 Def / 0 Spa / 0 SpD / 132 Spe
+Bold Nature
+- Psychic
+- Draining Kiss
+- Mystical Fire
+- Healing Wish
+
+Walking Wake @ Expert Belt 
+Ability: Protosynthesis
+EVs: 0 HP / 0 Atk / 0 Def / 252 Spa / 4 SpD / 252 Spe
+Modest Nature
+- Hydro Steam
+- Draco Meteor
+- Dragon Pulse
+- Flamethrower
+
+Dragonite @ Heavy-Duty Boots
+Ability: Multiscale
+EVs: 0 HP / 252 Atk / 4 Def / 0 Spa / 0 SpD / 252 Spe
+Adamant Nature
+- Encore
+- Dragon Dance
+- Fire Punch
+- Extreme Speed
+
